@@ -1,6 +1,6 @@
 {
-  "name": "@marcelo-brbx/baileys-beginner",
-  "version": "1.0.0",
+  "name": "baileys-beginner-prisma",
+  "version": "1.0.1",
   "description": "Wrapper simples para Baileys WhatsApp - for beginners",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -29,7 +29,7 @@
   "author": "Marcelo P. S. P. <desenvolvedoreasycode@gmail.com> (https://github.com/developer-marcelo)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/developer-marcelo/baileys-beginners"
+    "url": "https://github.com/Developer-Marcelo/baileys-beginner-prisma"
   },
   "license": "MIT",
   "type": "module",
